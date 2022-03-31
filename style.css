@@ -1,12 +1,15 @@
-
+*{
+    margin: 0;
+}
 .main-page{
-    max-width: 1440px;
+    width: 100%;
     max-height: 1024px;
     background-color: #D0D7FE;
+    padding: 119px 0;
 }
-
 .container{
     max-width: 1058px;
-    max-height: 786px;
+    height: 786px;
     background-color: #fff;
+    margin: 0 auto;
 }
