@@ -1,8 +1,12 @@
 
 .main-page{
+    max-width: 1440px;
+    max-height: 1024px;
     background-color: #D0D7FE;
 }
 
 .container{
-    background-color: #D0D7FE;
+    max-width: 1058px;
+    max-height: 786px;
+    background-color: #fff;
 }
